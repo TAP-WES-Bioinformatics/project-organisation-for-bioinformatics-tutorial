@@ -24,11 +24,11 @@ By the end of this tutorial, you should be able to:
 
 | Topic | Wiki page |
 | --- | --- |
-| Getting started | [set up your computer]() |
-| The terminal | [The terminal]() |
-| Linux file permissions | [Linux file permission basics]() |
-| Project organisation | [Project organisation]() |
-| Version control | [Git 1: Version control, git and github]() |
-| Branches and merging | [Git 2: Branches and Merging]() |
+| Getting started | [set up your computer](https://github.com/TAP-WES-Bioinformatics/project-organisation-for-bioinformatics-tutorial/wiki/01%E2%80%90Getting-started:-set-up-your-computer) |
+| The terminal | [The terminal](https://github.com/TAP-WES-Bioinformatics/project-organisation-for-bioinformatics-tutorial/wiki/02%E2%80%90The-terminal) |
+| Linux file permissions | [Linux file permission basics](https://github.com/TAP-WES-Bioinformatics/project-organisation-for-bioinformatics-tutorial/wiki/03%E2%80%90Linux-file-permission-basics) |
+| Project organisation | [Project organisation](https://github.com/TAP-WES-Bioinformatics/project-organisation-for-bioinformatics-tutorial/wiki/04%E2%80%90Project%E2%80%90organisation) |
+| Version control | [Git 1: Version control, git and github](https://github.com/TAP-WES-Bioinformatics/project-organisation-for-bioinformatics-tutorial/wiki/05%E2%80%90Git-1:-Version-control,-git-and-github) |
+| Branches and merging | [Git 2: Branches and Merging](https://github.com/TAP-WES-Bioinformatics/project-organisation-for-bioinformatics-tutorial/wiki/06%E2%80%90Git-2:-Branches-and-Merging) |
 
 ---
